@@ -381,9 +381,8 @@ h6 {
     font-size: 1.5rem;
 }
 .lead {
-    font-size: 14px;
-    font-size: 1rem;
-    font-weight: 700;
+    font-size: 24px;
+    font-weight: 500;
 }
 .display-1 {
     font-size: 48px;
@@ -685,7 +684,7 @@ h6 {
 }
 @media (min-width: 576px) {
     .display-1 {
-        font-size: 8rem;
+        font-size: 4rem;
     }
 }
 .display-2 {
