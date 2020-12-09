@@ -1,3 +1,25 @@
+/***********
+
+Tema para Tacones en la mano
+
+Por: Sergio Molina @sergioymolina
+
+www.taconesenlamano.com
+
+
+
+Hecho con recursos, script y código de uso libre y gratuito con Licencia Creative Commons 3.0
+*/
+
+
+
 html {
   scroll-behavior: smooth;
+}
+
+
+.marco img {
+
+	border: 5px #8020bf solid;
+	transition: border 0.2s linear;
 }
